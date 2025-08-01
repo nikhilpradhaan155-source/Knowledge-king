@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Knowledge Website - Seekhiye naye topics aur paaiye valuable information daily.">
+    <meta name="keywords" content="Knowledge, Learning, Education, Blog, Information, Tips">
+    <meta name="author" content="Aapka Naam">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="Hindi, English">
+
+    <!-- Social Media Preview (Open Graph Tags) -->
+    <meta property="og:title" content="Knowledge Website - Daily Learning Hub">
+    <meta property="og:description" content="Seekhiye naye topics aur paaiye valuable information daily.">
+    <meta property="og:image" content="https://example.com/knowledge-image.jpg">
+    <meta property="og:url" content="https://example.com">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Knowledge Website - Daily Learning Hub">
+    <meta name="twitter:description" content="Seekhiye naye topics aur paaiye valuable information daily.">
+    <meta name="twitter:image" content="https://example.com/knowledge-image.jpg">
+
+    <title>Knowledge Website</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        nav {
+            margin: 15px 0;
+        }
+        nav a {
+            text-decoration: none;
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 20px;
+            margin: 5px;
+            display: inline-block;
+            border-radius: 5px;
+            transition: 0.3s ease;
+        }
+        nav a:hover {
+            background-color: #0056b3;
+            transform: scale(1.05);
+        }
+        .content {
+            padding: 20px;
+        }
+        footer {
+            background-color: #f1f1f1;
+            padding: 15px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Knowledge Website</h1>
+        <p>Daily Learning Hub – Seekhiye aur aage badhiye</p>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#articles">Articles</a>
+        <a href="#about">About Us</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="content" id="home">
+        <h2>Latest Knowledge Articles</h2>
+        <p>Yahaan aapko har din naye knowledge topics milte rahenge jo aapke learning journey ko aasan banayenge.</p>
+    </div>
+
+    <div class="content" id="articles">
+        <h2>Articles Section</h2>
+        <p>Jaldi hi naye articles yahaan update kiye jayenge.</p>
+    </div>
+
+    <div class="content" id="about">
+        <h2>About Us</h2>
+        <p>Yeh website aapko valuable knowledge aur tips dene ke liye banayi gayi hai.</p>
+    </div>
+
+    <div class="content" id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: example@email.com</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Knowledge Website. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
